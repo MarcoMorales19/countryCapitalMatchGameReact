@@ -25,13 +25,16 @@ To download and clone the project to your local machine, follow these steps:
 
 
 3. **Navigate to the project directory:**
-  cd your-repository
+    ```bash
+    cd your-repository
 
 
 4. **Installing Dependencies**
-  npm install
+    ```bash
+    npm install
 
-4. **Running the Application**
-  npm run dev
+5. **Running the Application**
+    ```bash
+    npm run dev
 
 # React + TypeScript + Vite
