@@ -21,7 +21,7 @@ To download and clone the project to your local machine, follow these steps:
 2. **Clone the repository using Git:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/MarcoMorales19/countryCapitalMatchGameReact.git
 
 
 3. **Navigate to the project directory:**
