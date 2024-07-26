@@ -1,0 +1,48 @@
+.button {
+    background-color: rgb(158, 157, 157); 
+    color: rgb(10, 10, 10);
+    border: none;
+    padding: 10px 20px;
+    margin: 5px; 
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+
+  .clicked {
+    background-color: rgb(75, 123, 244); 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px; 
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+
+  .success {
+    background-color: rgb(77, 255, 0); 
+    color: white;
+    border: none;
+    margin: 5px; 
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  .incorrect {
+    background-color: rgb(255, 0, 0); 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px; 
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
